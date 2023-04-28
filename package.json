@@ -1,0 +1,16 @@
+{
+  "name": "node.project",
+  "version": "1.0.0",
+  "description": "LR5 - WEB",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js",
+    "serve": "nodemon script.js"
+  },
+  "author": "Kuznetsova Veronika",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
